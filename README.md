@@ -1,16 +1,3 @@
-# Crowdfunding Contract - Soroban Workshop
-
-**Technical Bootcamp Part I: Soroban & Architecture Fundamentals**
-
-## Introducción
-
-Este proyecto es una demostración práctica para aprender conceptos fundamentales de Soroban y el desarrollo de contratos inteligentes.  
-Fue creado para el workshop de BAF en el marco del Stellar GIVE Hackathon Argentina 2025.
-
-Se trata de un contrato básico de crowdfunding en Rust que permite a creadores lanzar campañas con metas de recaudación, aceptar contribuciones, y gestionar retiros y reembolsos.
-
----
-
 ## Setup
 
 ### Rust Toolchain
